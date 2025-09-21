@@ -1,3 +1,4 @@
 # Travel_Wise
 this is ml based model 
-for evryone
+this is for safety and enhancing  the travlling experince 
+
